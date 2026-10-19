@@ -1,7 +1,7 @@
 # l-m-chung-ko
-public class upload
+class num
 
-int number = int.input("Enter a number: ")
+int num = int(input("Enter a number: "))
 
-print("The number you entered is: " + str(number))
+print("The number you entered is: " + str(num))
 
